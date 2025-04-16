@@ -52,9 +52,8 @@
 
 _I'm in the early stages of my technical journey, actively developing projects in:_
 
-- Computer Vision for Healthcare (Object Detection using YOLO)
-- Database Design & Implementation
-- Data Analysis & Visualization
+- 🧠 **Skin Cancer Detection with YOLO**  
+  Designed and trained an object detection model to identify potentially dangerous skin lesions using the HAM10000 and ISIC datasets. Focused on **manual image labeling**, **bounding box precision**, and **data quality** for YOLOv5 training. Achieved 71% recall after     improving class balance and annotation quality.  
 
 ---
 
